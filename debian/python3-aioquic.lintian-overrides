@@ -1,0 +1,4 @@
+python3-aioquic: copyright-without-copyright-notice
+python3-aioquic: initial-upload-closes-no-bugs
+python3-aioquic: no-manual-page
+python3-aioquic: zero-byte-file-in-doc-directory
