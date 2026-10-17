@@ -1,0 +1,5 @@
+python-aioquic (100:1.7.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/aiortc/aioquic/releases/tag/1.7.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Sat, 17 Oct 2026 18:47:02 +0800

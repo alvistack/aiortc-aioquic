@@ -1,0 +1,5 @@
+python-aioquic source: file-without-copyright-information
+python-aioquic source: no-debian-changes
+python-aioquic source: source-contains-prebuilt-windows-binary
+python-aioquic source: source-is-missing
+python-aioquic source: source-package-encodes-python-version
